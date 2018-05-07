@@ -1,8 +1,25 @@
 body{
-	background: url('../jose-daniel26.github.io/pink.jpg') no-repeat black;
+	background: url('../jose-daniel26.github.io/personal.jpg') no-repeat black;
 	background-size: cover;
 }
 h1{
-color: black;
+color: white;
 text-align: center;
+}
+
+div{
+	background: grey;
+}
+footer p a:visited{
+color:blue;
+}
+article h1,h2{
+	color: white;
+}footer{
+	text-align: center;
+	clear: both;
+}
+p{
+	text-align: center;
+	color: white;
 }
